@@ -1,20 +1,18 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Improving Focus: Usando a IA para monitorar nosso uso de tela, à fim de evitar distrações e garantir mais foco💡
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+Ferramentas de IA disponíveis no mercado capaz de ajudar pessoas a obter mais foco e menos distrações na frente da tela.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para gerar roteiros de estudos, resumos e informações na ausência de um mentor presencial;
+- Ferramenta de monitoramento de produtividade **[RescueTime](https://www.rescuetime.com/)** para monitorar o tempo que você passa em aplicativos e sites. Ele categoriza sua atividade e gera relatórios detalhados sobre onde você está gastando mais tempo;
+- IA Assistente Virtual **[Google Assistant]([https://www.descript.com](https://assistant.google.com/intl/pt_br/))** para ajudar a gerenciar tarefas, lembretes, e até bloquear aplicativos ou sites de distração de acordo com horários preestabelecidos..
 
 ## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+Com o uso de uma assistente virtual podemos programar rotinas e gerenciar tarefas. E com o auxílio de uma ferramenta que gerencia nosso tempo de tela, podemos identificar quais são as distrações que desviam o foco da produtividade. Mesmo no nosso tempo fora da tela, podemos definir alarmes e temporizadores para executar determinadas tarefas sem comprometer o tempo dos demais compromissos definidos para o dia.
 
 ## 🚀 Resultados
-O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
-
-[LINK PARA O PODCAST AQUI]()
+Rotinas de estudo mais produtivas e dias mais frutíferos!
 
 ## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+Com o uso de tecnologias podemos desmistificar a teoria de que a tecnologia nos faz perder a noção do tempo, pois dessa forma somos capazes de gerir o tempo melhor que nunca.
